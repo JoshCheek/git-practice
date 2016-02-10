@@ -1,3 +1,3 @@
-This is a practice git project!
+This is a practice git project.
 Oh joy!
-Hooray!
+Hip Hip Hooray!
